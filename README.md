@@ -24,7 +24,7 @@ Welcome to my professional cybersecurity portfolio! This site showcases my skill
 
 - 📧 Email: [ahmed.aga2001@gmail.com](mailto:ahmed.aga2001@gmail.com)
 - 💼 LinkedIn: [Ahmed Mahmoud Abdel-Rhman](https://www.linkedin.com/in/ahmed-mahmoud-abdel-rhman-70a6b12a1/)
-- 🐙 GitHub: [Your GitHub Username](https://github.com/ahmedagha123)
+- 🐙 GitHub: [My GitHub](https://github.com/ahmedagha123)
 
 ## 📌 Note
 This portfolio is designed as a personal project to demonstrate my cybersecurity journey and readiness for junior-level penetration testing roles.
